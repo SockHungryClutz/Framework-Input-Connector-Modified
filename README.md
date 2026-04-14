@@ -1,6 +1,9 @@
 # Framework input shim
 
 
+**This repository is a fork of [CRImier/MyKiCad/.../framework_input_brkt_smol/](https://github.com/CRImier/MyKiCad/tree/master/Laptop%20mods/framework_input_brkt_smol)**  
+(It was created as a new repo so as not to copy all other KiCad projects from CRImier in the same repo)
+
 This is a small shim for the Framework laptop motherboard. It exposes the power button,
 a USB port with 5V power, keyboard backlight, Caps Lock and fingerprint LED connections.
 It is designed to fit inside the outline of the input connector FPC plug,
